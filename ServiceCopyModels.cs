@@ -13,8 +13,8 @@ namespace AgentCopyModels
     public partial class ServiceCopyModels : ServiceBase
     {
         //Parâmetros de controle
-        string pastaOrigem = @"\\UMA013S\CNC\PROMOTEC-50\Enviar\";
-        string pastaEnviados = @"\\UMA013S\CNC\PROMOTEC-50\Enviados";
+        string pastaOrigem = @"\\exemplo\Enviar\";
+        string pastaEnviados = @"\\exemplo2\Enviar\";
         string pastaDestino = @"F:\dh\mpf.dir\";
         //string pastaOrigem = @"c:\Enviar";
         //string pastaDestino = @"C:\dh\mpf.dir\";
@@ -35,7 +35,7 @@ namespace AgentCopyModels
         {
             //EventLog.WriteEntry("Realizando entrada de login no servidor UMA013S", EventLogEntryType.Warning);
             //Faz autenticação no servidor utilizando a classe declarada abaixo.
-            using (NetworkShareAccesser.Access("UMA013S", "METASA", "maquina", "metasa10"))
+            using (NetworkShareAccesser.Access("SERVIDOR", "DOMINIO", "USUARIO", "SENHA"))
             {
                 
                 while (true)
@@ -341,3 +341,4 @@ namespace AgentCopyModels
         }
     }
 }
+
