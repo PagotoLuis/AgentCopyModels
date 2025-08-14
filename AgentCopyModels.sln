@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgentCopyModels", "AgentCopyModels.csproj", "{D1902149-1155-4738-9532-2033DC68EEE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1902149-1155-4738-9532-2033DC68EEE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1902149-1155-4738-9532-2033DC68EEE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1902149-1155-4738-9532-2033DC68EEE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1902149-1155-4738-9532-2033DC68EEE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3BC9DCC-B373-48D8-9880-00D65044A57E}
+	EndGlobalSection
+EndGlobal

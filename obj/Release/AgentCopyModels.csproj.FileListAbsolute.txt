@@ -1,0 +1,10 @@
+C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Release\AgentCopyModels.exe.config
+C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Release\AgentCopyModels.exe
+C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Release\AgentCopyModels.pdb
+C:\Users\luis.pagoto\Desktop\AgentCopyModels\obj\Release\AgentCopyModels.csproj.AssemblyReference.cache
+C:\Users\luis.pagoto\Desktop\AgentCopyModels\obj\Release\AgentCopyModels.ProjectInstaller.resources
+C:\Users\luis.pagoto\Desktop\AgentCopyModels\obj\Release\AgentCopyModels.ServiceCopyModels.resources
+C:\Users\luis.pagoto\Desktop\AgentCopyModels\obj\Release\AgentCopyModels.csproj.GenerateResource.cache
+C:\Users\luis.pagoto\Desktop\AgentCopyModels\obj\Release\AgentCopyModels.csproj.CoreCompileInputs.cache
+C:\Users\luis.pagoto\Desktop\AgentCopyModels\obj\Release\AgentCopyModels.exe
+C:\Users\luis.pagoto\Desktop\AgentCopyModels\obj\Release\AgentCopyModels.pdb

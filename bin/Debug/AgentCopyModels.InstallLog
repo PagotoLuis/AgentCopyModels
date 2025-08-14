@@ -1,0 +1,133 @@
+﻿Instalando o assembly 'C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.InstallLog
+   assemblypath = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe
+Instalando o serviço ServiceCopyModels...
+Serviço ServiceCopyModels foi instalado com êxito.
+Criando a origem de EventLog ServiceCopyModels no log Application...
+Confirmando o assembly 'C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.InstallLog
+   assemblypath = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe
+Desinstalando o assembly 'C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.InstallLog
+   assemblypath = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe
+Removendo a origem do EventLog ServiceCopyModels.
+Serviço ServiceCopyModels está sendo removido do sistema...
+Serviço ServiceCopyModels foi removido com êxito do sistema.
+Tentativa de parar o serviço ServiceCopyModels.
+Instalando o assembly 'C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.InstallLog
+   assemblypath = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe
+Instalando o serviço ServiceCopyModels...
+Criando a origem de EventLog ServiceCopyModels no log Application...
+Revertendo o assembly 'C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.InstallLog
+   assemblypath = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe
+Restaurando o log de eventos para o estado anterior da origem ServiceCopyModels.
+Ocorreu uma exceção durante a fase de reversão do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.InstallLog
+   assemblypath = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe
+Instalando o serviço ServiceCopyModels...
+Criando a origem de EventLog ServiceCopyModels no log Application...
+Revertendo o assembly 'C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.InstallLog
+   assemblypath = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe
+Restaurando o log de eventos para o estado anterior da origem ServiceCopyModels.
+Ocorreu uma exceção durante a fase de reversão do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.InstallLog
+   assemblypath = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe
+Instalando o serviço ServiceCopyModels...
+Criando a origem de EventLog ServiceCopyModels no log Application...
+Revertendo o assembly 'C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.InstallLog
+   assemblypath = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe
+Restaurando o log de eventos para o estado anterior da origem ServiceCopyModels.
+Ocorreu uma exceção durante a fase de reversão do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.InstallLog
+   assemblypath = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe
+Instalando o serviço ServiceCopyModels...
+Criando a origem de EventLog ServiceCopyModels no log Application...
+Revertendo o assembly 'C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.InstallLog
+   assemblypath = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe
+Restaurando o log de eventos para o estado anterior da origem ServiceCopyModels.
+Ocorreu uma exceção durante a fase de reversão do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.InstallLog
+   assemblypath = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe
+Instalando o serviço ServiceCopyModels...
+Serviço ServiceCopyModels foi instalado com êxito.
+Criando a origem de EventLog ServiceCopyModels no log Application...
+Confirmando o assembly 'C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.InstallLog
+   assemblypath = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe
+Instalando o assembly 'C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.InstallLog
+   assemblypath = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe
+Instalando o serviço ServiceCopyModels...
+Criando a origem de EventLog ServiceCopyModels no log Application...
+Revertendo o assembly 'C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.InstallLog
+   assemblypath = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe
+Restaurando o log de eventos para o estado anterior da origem ServiceCopyModels.
+Desinstalando o assembly 'C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.InstallLog
+   assemblypath = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe
+Removendo a origem do EventLog ServiceCopyModels.
+Serviço ServiceCopyModels está sendo removido do sistema...
+Serviço ServiceCopyModels foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.InstallLog
+   assemblypath = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe
+Instalando o serviço ServiceCopyModels...
+Serviço ServiceCopyModels foi instalado com êxito.
+Criando a origem de EventLog ServiceCopyModels no log Application...
+Confirmando o assembly 'C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.InstallLog
+   assemblypath = C:\Users\luis.pagoto\Desktop\AgentCopyModels\bin\Debug\AgentCopyModels.exe
